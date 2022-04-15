@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Apr 2022 13:04:50 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Thu, 14 Apr 2022 12:05:47 +0100</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Book Chapter #  Kumar, A.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Thu, 14 Apr 2022 12:05:34 +0100</pubDate>
+      
+      <guid>/research/</guid>
+      <description>I took up my current position as a Research Fellow in Computational Neuroscience at the Univeristy of Birmingham in October 2021.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/aboutme/</link>
+      <pubDate>Thu, 14 Apr 2022 12:05:07 +0100</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>Hi! I am Aravind, an engineer by education, an applied mathematician by profession, and a curious individual by heart.</description>
+    </item>
+    
+  </channel>
+</rss>
