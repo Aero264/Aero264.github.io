@@ -163,15 +163,6 @@ sup {
 3. Remove gaps between table borders by default.
 */
 
-table {
-  text-indent: 0;
-  /* 1 */
-  border-color: inherit;
-  /* 2 */
-  border-collapse: collapse;
-  /* 3 */
-}
-
 /*
 1. Change the font styles in all browsers.
 2. Remove the margin in Firefox and Safari.
@@ -700,47 +691,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   content: none;
 }
 
-.prose :where(table):not(:where([class~="not-prose"] *)) {
-  width: 100%;
-  table-layout: auto;
-  text-align: left;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  font-size: 0.875em;
-  line-height: 1.7142857;
-}
-
-.prose :where(thead):not(:where([class~="not-prose"] *)) {
-  border-bottom-width: 1px;
-  border-bottom-color: var(--tw-prose-th-borders);
-}
-
-.prose :where(thead th):not(:where([class~="not-prose"] *)) {
-  color: var(--tw-prose-headings);
-  font-weight: 600;
-  vertical-align: bottom;
-  padding-right: 0.5714286em;
-  padding-bottom: 0.5714286em;
-  padding-left: 0.5714286em;
-}
-
-.prose :where(tbody tr):not(:where([class~="not-prose"] *)) {
-  border-bottom-width: 1px;
-  border-bottom-color: var(--tw-prose-td-borders);
-}
-
-.prose :where(tbody tr:last-child):not(:where([class~="not-prose"] *)) {
-  border-bottom-width: 0;
-}
-
-.prose :where(tbody td):not(:where([class~="not-prose"] *)) {
-  vertical-align: baseline;
-  padding-top: 0.5714286em;
-  padding-right: 0.5714286em;
-  padding-bottom: 0.5714286em;
-  padding-left: 0.5714286em;
-}
-
 .prose {
   --tw-prose-body: rgb(var(--color-neutral-700));
   --tw-prose-headings: rgb(var(--color-neutral-800));
@@ -756,8 +706,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-prose-code: rgb(var(--color-secondary-700));
   --tw-prose-pre-code: rgb(var(--color-neutral-700));
   --tw-prose-pre-bg: rgb(var(--color-neutral-50));
-  --tw-prose-th-borders: rgb(var(--color-neutral-500));
-  --tw-prose-td-borders: rgb(var(--color-neutral-300));
   --tw-prose-invert-body: rgb(var(--color-neutral-300));
   --tw-prose-invert-headings: rgb(var(--color-neutral-50));
   --tw-prose-invert-lead: rgb(var(--color-neutral-500));
@@ -772,8 +720,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-prose-invert-code: rgb(var(--color-secondary-400));
   --tw-prose-invert-pre-code: rgb(var(--color-neutral-200));
   --tw-prose-invert-pre-bg: rgb(var(--color-neutral-700));
-  --tw-prose-invert-th-borders: rgb(var(--color-neutral-500));
-  --tw-prose-invert-td-borders: rgb(var(--color-neutral-700));
   font-size: 1rem;
   line-height: 1.75;
 }
@@ -861,22 +807,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 0;
 }
 
-.prose :where(thead th:first-child):not(:where([class~="not-prose"] *)) {
-  padding-left: 0;
-}
-
-.prose :where(thead th:last-child):not(:where([class~="not-prose"] *)) {
-  padding-right: 0;
-}
-
-.prose :where(tbody td:first-child):not(:where([class~="not-prose"] *)) {
-  padding-left: 0;
-}
-
-.prose :where(tbody td:last-child):not(:where([class~="not-prose"] *)) {
-  padding-right: 0;
-}
-
 .prose > :where(:first-child):not(:where([class~="not-prose"] *)) {
   margin-top: 0;
 }
@@ -938,14 +868,6 @@ body a, body button {
 [dir="rtl"] .prose ol > li:before, [dir="rtl"] .prose ul > li:before {
   left: auto;
   right: 0.25rem;
-}
-
-[dir="rtl"] .prose thead td:first-child, [dir="rtl"] .prose thead th:first-child {
-  padding-right: 0px;
-}
-
-[dir="rtl"] .prose thead td:last-child, [dir="rtl"] .prose thead th:last-child {
-  padding-left: 0px;
 }
 
 /* Table of Contents */
@@ -1722,7 +1644,7 @@ body a, body button {
 }
 
 .max-w-prose {
-  max-width: 40rem;
+  max-width: 81ch;
 }
 
 .max-w-\[10rem\] {
@@ -2450,8 +2372,7 @@ body a, body button {
   --tw-prose-code: var(--tw-prose-invert-code);
   --tw-prose-pre-code: var(--tw-prose-invert-pre-code);
   --tw-prose-pre-bg: var(--tw-prose-invert-pre-bg);
-  --tw-prose-th-borders: var(--tw-prose-invert-th-borders);
-  --tw-prose-td-borders: var(--tw-prose-invert-td-borders);
+
 }
 
 .dark .dark\:prose-invert :where(a):not(:where([class~="not-prose"] *)) {

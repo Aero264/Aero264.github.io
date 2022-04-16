@@ -1,0 +1,6 @@
+To alter page text width:
+
+Modify max-width property in css/compiled/main.css:
+max-w-prose {
+  max-width: 81ch;
+}
