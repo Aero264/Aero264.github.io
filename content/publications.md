@@ -25,7 +25,7 @@ DOI: <https://doi.org/10.1016/j.jsv.2017.01.007>
 DOI: <https://doi.org/10.1140/epjst/e2015-02590-8>
 
 ### Conference Proceedings
-1. **Kumar, A.**, Ali, S. F., and A. Arockiarajan, A. (2020). **Analysis of Tristable Energy Harvesters Under Random Excitations**, in *Advances in Rotor Dynamics, Control, and Structural Health Monitoring* (pp. 517-528). Springer, Singapore.
+1. **Kumar, A.**, Ali, S. F., and A. Arockiarajan, A. (2020). **Analysis of Tristable Energy Harvesters Under Random Excitations**, in *Advances in Rotor Dynamics, Control, and Structural Health Monitoring* (pp. 517-528). Springer, Singapore.  
 DOI: <https://doi.org/10.1007/978-981-15-5693-7_36>
 
 2. **Kumar, A.**, Ali, S. F., Friswell, M. I., and Arockiarajan, A. (2018). **Stabilization of limit cycles in the Lorenz attractor through the orbit closure method**, in *2018 Indian Control Conference (ICC)* (pp. 235-239). IEEE.  
