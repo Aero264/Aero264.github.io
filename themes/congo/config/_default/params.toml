@@ -15,6 +15,7 @@ enableCodeCopy = false
 
 # mainSections = ["section1", "section2"]
 # robots = ""
+keywords = ["Aravind", "Kamaraj", "Aravind Kumar", "Aravind Kumar Kamaraj", "Research Fellow", "SMQB", "Epilepsy"]
 showScrollToTop = true
 
 [homepage]
@@ -46,6 +47,9 @@ showScrollToTop = true
   groupByYear = true
 
 [sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
