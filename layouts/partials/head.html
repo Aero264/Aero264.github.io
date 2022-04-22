@@ -20,10 +20,11 @@
   {{ with .Site.Params.keywords -}}
     <meta name="keywords" content="{{ . }}" />
   {{- end }}
-  {{ if eq (getenv "HUGO_ENV") "production" }}
-    <meta name="robots" content="index,follow">
-  {{ else }}
-    <meta name="robots" content="noindex,nofollow">
+  {{ with .Site.Params.robots }}
+    <meta name="robots" content="{{ . }}" />
+  {{ end }}
+  {{ with .Params.robots }}
+    <meta name="robots" content="{{ . }}" />
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}" />
   {{ range .AlternativeOutputFormats -}}
