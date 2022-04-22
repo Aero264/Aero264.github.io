@@ -4,6 +4,7 @@ date: 2022-04-14T12:05:34+01:00
 draft: false
 showDate: false
 showAuthor: false
+Description: "Overview of the research carried out by Dr. Aravind Kumar Kamaraj who is currently a Research Fellow at SMQB"
 ---
 I took up my current position as a Research Fellow in Computational Neuroscience at the Univeristy of Birmingham in October 2021. I am currently investigating the effects of triggers such as stress, sleep deprivation and missed medication on the seizure propensity in patients with epilepsy. Clinical evidence point towards the fact that epileptic seizures are not random and are instead precipitated by triggers specific to each patient. Some of these triggers act instantaneously, for instance, flashing lights triggering seizures in patients with photosensitive epilepsy. Others take some time to manifest, for instance, stress or sleep deprivation. I am working on a way to translate this clinical evidence into mathematical models that could help forecast seizures and devise interventions to prevent a seizure.
 

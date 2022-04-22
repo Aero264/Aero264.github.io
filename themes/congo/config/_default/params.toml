@@ -14,8 +14,9 @@ enableSearch = false
 enableCodeCopy = false
 
 # mainSections = ["section1", "section2"]
-# robots = ""
+robots = "index, follow"
 keywords = ["Aravind", "Kamaraj", "Aravind Kumar", "Aravind Kumar Kamaraj", "Research Fellow", "SMQB", "Epilepsy"]
+Description = "Personal website of Dr. Aravind Kumar Kamaraj"
 showScrollToTop = true
 
 [homepage]

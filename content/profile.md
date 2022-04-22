@@ -5,6 +5,7 @@ draft: false
 showDate: false
 showAuthor: false
 showDateUpdated: true
+Description: "Professional Profile of Dr. Aravind Kumar Kamaraj - Research Fellow at SMQB"
 ---
 {{< katex >}}
 ## Experience
