@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Aravind Kumar</title>
+    <title>Home on Congo</title>
     <link>https://www.aravind-kumar.net/</link>
-    <description>Recent content in Home on Aravind Kumar</description>
+    <description>Recent content in Home on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Apr 2022 13:04:50 +0100</lastBuildDate><atom:link href="https://www.aravind-kumar.net/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Fri, 15 Apr 2022 20:10:11 +0100</pubDate>
       
       <guid>https://www.aravind-kumar.net/profile/</guid>
-      <description>Experience #           Oct &amp;lsquo;21 - Present    Research Fellow in Computational Neuroscience       University of Birmingham, UK       Project: Seizures and the Brain: Role of Perturbed Dynamic Networks       Advisor: Prof.</description>
+      <description>Experience #          Oct &amp;lsquo;21 - Present    Research Fellow in Computational Neuroscience       University of Birmingham, UK       Project: Seizures and the Brain: Role of Perturbed Dynamic Networks       Advisor: Prof.</description>
     </item>
     
     <item>
@@ -22,16 +22,7 @@
       <pubDate>Thu, 14 Apr 2022 12:05:47 +0100</pubDate>
       
       <guid>https://www.aravind-kumar.net/publications/</guid>
-      <description>Book Chapter #  Kumar, A.</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://www.aravind-kumar.net/blog/</link>
-      <pubDate>Thu, 14 Apr 2022 12:05:34 +0100</pubDate>
-      
-      <guid>https://www.aravind-kumar.net/blog/</guid>
-      <description>Welcome to my blog!</description>
+      <description>Book Chapter # Kumar, A.</description>
     </item>
     
     <item>
@@ -40,7 +31,7 @@
       <pubDate>Thu, 14 Apr 2022 12:05:34 +0100</pubDate>
       
       <guid>https://www.aravind-kumar.net/research/</guid>
-      <description>I took up my current position as a Research Fellow in Computational Neuroscience at the Univeristy of Birmingham in October 2021.</description>
+      <description>I hold a PhD in Applied Mechanics from the Indian Institute of Technology Madras, Chennai, India, with my thesis focussing on enhancing the power obtained from piezoelectric energy harvesters.</description>
     </item>
     
     <item>
@@ -49,7 +40,7 @@
       <pubDate>Thu, 14 Apr 2022 12:05:07 +0100</pubDate>
       
       <guid>https://www.aravind-kumar.net/aboutme/</guid>
-      <description>Hi! I am Aravind, an engineer by education, an applied mathematician by profession, and a curious individual by heart.</description>
+      <description>Hi! I am Aravind, an engineer, applied mathematician, and neuroscientist and above all, a curious individual by heart.</description>
     </item>
     
   </channel>
