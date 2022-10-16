@@ -7,7 +7,7 @@ showAuthor: false
 Description: "About Dr. Aravind Kumar Kamaraj - Research Fellow at SMQB"
 ---
 
-Hi! I am Aravind, an engineer, applied mathematician, and neuroscientist and above all, a curious individual by heart. My curiosity has led me to observe how things evolve with time and question why they do so. There is a branch of mathematics that looks into this - **dynamical systems**, and it forms the core of my research. I think we can all agree that the world would be a far boring place to live if not for the nonlinearity and randomness. Naturally, this extends to my research as well, and I focus on nonlinear and stochastic dynamical systems. 
+Hi! I am Aravind, an engineer, applied mathematician, neuroscientist, and above all, a curious individual by heart. My curiosity has led me to observe how things evolve with time and question why they do so. There is a branch of mathematics that looks into this - **dynamical systems**, and it forms the core of my research. I think we can all agree that the world would be a far boring place to live if not for the nonlinearity and randomness. Naturally, this extends to my research as well, and I focus on nonlinear and stochastic dynamical systems. 
 
 I started out as a Mechanical Engineer, and went on to do a PhD in Applied Mechanics from Indian Institute of Technology Madras. Subsequently, I moved to the UK to work on the modelling of helicopters at the University of Bristol. 
 
