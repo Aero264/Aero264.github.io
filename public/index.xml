@@ -8,6 +8,24 @@
     <language>en</language>
     <lastBuildDate>Thu, 14 Apr 2022 13:04:50 +0100</lastBuildDate><atom:link href="https://www.aravind-kumar.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Perturbations in Epilepsy 2023</title>
+      <link>https://www.aravind-kumar.net/events/pie23/</link>
+      <pubDate>Sun, 19 Feb 2023 12:05:34 +0100</pubDate>
+      
+      <guid>https://www.aravind-kumar.net/events/pie23/</guid>
+      <description>“Perturbations in Epilepsy” is a hot-topics workshop series organized by the Center for Systems Modelling and Quantitative Biomedicine (SMQB) in association with the University of Birmingham, UK.</description>
+    </item>
+    
+    <item>
+      <title>Phase Transitions in Electrophysiological Systems at SIAM DS23</title>
+      <link>https://www.aravind-kumar.net/events/siamds23/</link>
+      <pubDate>Sun, 19 Feb 2023 12:05:34 +0100</pubDate>
+      
+      <guid>https://www.aravind-kumar.net/events/siamds23/</guid>
+      <description>I am co-organising and co-chairing a mini symposium on ‘Phase Transitions in Electrophysiological Systems’ at the upcoming SIAM Conference on Applications of Dynamical Systems in Portland, USA on May 17 and 18, 2023.</description>
+    </item>
+    
+    <item>
       <title>Profile</title>
       <link>https://www.aravind-kumar.net/profile/</link>
       <pubDate>Fri, 15 Apr 2022 20:10:11 +0100</pubDate>
@@ -41,6 +59,15 @@
       
       <guid>https://www.aravind-kumar.net/aboutme/</guid>
       <description>Hi! I am Aravind, an engineer, applied mathematician, neuroscientist, and above all, a curious individual by heart.</description>
+    </item>
+    
+    <item>
+      <title>Perturbations in Epilepsy 2022</title>
+      <link>https://www.aravind-kumar.net/events/pie22/</link>
+      <pubDate>Fri, 08 Apr 2022 12:05:34 +0100</pubDate>
+      
+      <guid>https://www.aravind-kumar.net/events/pie22/</guid>
+      <description>“Perturbations in Epilepsy” is a hot-topics workshop series organized by the Center for Systems Modelling and Quantitative Biomedicine (SMQB) in association with the University of Birmingham, UK.</description>
     </item>
     
   </channel>
