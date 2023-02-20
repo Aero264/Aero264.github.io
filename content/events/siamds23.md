@@ -7,7 +7,7 @@ showAuthor: false
 Description: "Overview of the upcoming mini symposium titled Phase Transitions in Electrophysiological Systems to be hosted at the SIAM Conference on Applications of Dynamical Systems"
 ---
 
-I am co-organising and co-chairing a mini symposium on **‘Phase Transitions in Electrophysiological Systems’** at the upcoming SIAM Conference on Applications of Dynamical Systems in Portland, USA on May 17 and 18, 2023. Delegates from five countries, spanning different career stages from Graduate students to Senior Professors will be giving talks at the symposium. 
+My colleague Dr. Yingjing Feng and I are organising and chairing a mini symposium on **‘Phase Transitions in Electrophysiological Systems’** at the upcoming **SIAM Conference on Applications of Dynamical Systems** in Portland, USA on May 17 and 18, 2023. Delegates from five countries, spanning different career stages from Graduate students to Senior Professors will be giving talks at the symposium. 
 
 Phase transitions are ubiquitous in physiological processes and systems, for instance, the transition between quiescence and firing in neurons, rhythmic and arrhythmic oscillations in the heart and synchronous and asynchronous oscillations in a network of pancreatic cells. Many a time, these transitions are also indicative of the shift from a healthy state to disease. For instance, synchronous bursting of neurons may lead up to a seizure. 
 

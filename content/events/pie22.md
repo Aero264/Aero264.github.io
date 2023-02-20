@@ -6,7 +6,7 @@ showDate: false
 showAuthor: false
 Description: "Overview of the first edition of Perturbations in Epilepsy workshop"
 ---
-“Perturbations in Epilepsy” is a hot-topics workshop series organized by the Center for Systems Modelling and Quantitative Biomedicine (SMQB) in association with the University of Birmingham, UK.
+**Perturbations in Epilepsy** is a hot-topics workshop series organized by the Center for Systems Modelling and Quantitative Biomedicine (SMQB) in association with the University of Birmingham, UK.
 
 Epilepsy is a chronic and complex neurological disorder affecting about 65 million people around the world. It manifests as pathological electrical activity in the brain, and may lead to recurrent, unprovoked seizures, affecting the quality of life. Several physiological factors are known to affect the seizure likelihood, including sleep, hormones, and stress. It is imperative to understand the role of these triggers so that they can be identified and avoided. However, the triggers may affect different individuals in different ways and their effects may change over time even within the same individual. We are organising this workshop series to better understand how various seizure triggers affect the brain networks and predispose them to a seizure.
 

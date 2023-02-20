@@ -18,7 +18,7 @@ My research is directly shaped by the 'Perturbations in Epilepsy' workshop that 
 - Academics - to help with mathematical modelling, and data collection, analysis and interpretation. 
 - Industry partners - primarily from the health monitoring and diagnostics space to discuss the feasibility of long-term monitoring of factors such as heart rate variability, sleep duration and stress levels.
 
-The first iteration of the workshop took place in April 2022 and we are planning to organise the second one in March 2023. 
+The first edition of the workshop took place in April 2022 and we are planning to organise the second in June 2023. 
 
 I am open to new collaborations, and would like to particularly hear from graduate students - I have some interesting problems to work on!
 
