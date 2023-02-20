@@ -13,9 +13,6 @@ Phase transitions are ubiquitous in physiological processes and systems, for ins
 
 Approaches based on nonlinear dynamics and bifurcation theory have been imperative in improving our understanding of these transitions and developing techniques to detect an impending transition. As such, they find applications in seizure detection (neuroscience), cardiac arrhythmias (cardiology), and insulin secretion (endocrinology), to name a few.
 
-The breadth of both approaches and applications motivated us to organise this mini symposium on the subject to enable cross-fertilization of ideas and techniques. We intend to provide a platform to present different approaches adopted in studying phase transitions and deliberate over their merits and limitations relative to different applications such as,
-- Neuroscience, including neurodegenerative diseases, sleep, circadian and ultradian cycles.
-- Cardiac diseases
-- Synchronization in cellular networks, such as neurons and beta cells
+The breadth of both approaches and applications motivated us to organise this mini symposium on the subject to enable cross-fertilization of ideas and techniques. We intend to provide a platform to present different approaches adopted in studying phase transitions and deliberate over their merits and limitations relative to different applications.
 
 We look forward to meeting you all at Portland this May!
