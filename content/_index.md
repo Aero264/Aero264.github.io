@@ -5,5 +5,5 @@ draft: false
 Description: "Personal website of Dr. Aravind Kumar Kamaraj"
 ---
 
-Research Fellow in Computational Neuroscience  
-University of Birmingham, UK
+Research Fellow  
+University of Surrey, UK
