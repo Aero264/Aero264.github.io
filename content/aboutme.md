@@ -11,7 +11,7 @@ Hi! I am Aravind, an engineer, applied mathematician, neuroscientist, and above 
 
 I started out as a Mechanical Engineer, and went on to do a PhD in Applied Mechanics from Indian Institute of Technology Madras. Subsequently, I moved to the UK to work on the modelling of helicopters at the University of Bristol. 
 
-I am currently a **Research Fellow in Computational Neuroscience** at the Center for Systems Modelling and Quantitative Biomedicine (SMQB) at the **University of Birmingham, UK**. I am investigating the effects of triggers such as stress, sleep deprivation and missed medication on the propensity to initiate a seizure in patients with epilepsy. I am translating clinical evidence into a mathematical formulation that could help forecast seizures and devise interventions to prevent a seizure.
+I am currently a **Research Fellow in Computational Neuroscience** at the **University of Surrey, UK**. I am investigating the effects of sleep and circadian rhythms on people living with epilepsy and/or dementia. I am translating clinical evidence into a mathematical formulation that could help forecast seizures and devise interventions to prevent a seizure.
 
 Other than research, I like all things transportation - buses, trains and airlines. I run virtual airlines in the airline management game [AirlineSim](https://www.airlinesim.aero/en) and follow the airline industry closely in the real world as well.
 
