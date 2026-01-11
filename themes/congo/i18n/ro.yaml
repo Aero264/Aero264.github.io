@@ -47,9 +47,16 @@ sharing:
   email: "Trimite pe email"
   facebook: "Postează pe Facebook"
   linkedin: "Postează LinkedIn"
+  # mastodon: "Toot on Mastodon"
   pinterest: "Pune pe Pinterest"
   reddit: "Postează pe Reddit"
   twitter: "Scrie pe Twitter"
+  # threads: "Post on Threads"
+  telegram: "Trimite pe Telegram"
+  line: "Trimite pe LINE"
+  weibo: "Trimite pe Weibo"
+  # x-twitter: "Post on X"
+  # xing: "Share on XING"
 
 shortcode:
   recent_articles: "Cele mai noi"

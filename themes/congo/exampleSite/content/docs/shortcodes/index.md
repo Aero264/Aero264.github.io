@@ -3,6 +3,7 @@ title: "Shortcodes"
 date: 2020-08-11
 draft: false
 description: "All the shortcodes available in Congo."
+summary: Congo includes several shortcodes for adding rich content to articles including images, charts, diagrams, buttons and more.
 slug: "shortcodes"
 tags: ["shortcodes", "mermaid", "icon", "lead", "docs"]
 ---
@@ -55,7 +56,15 @@ New article!
 
 ## Button
 
-`button` outputs a styled button component which can be used to highlight a primary action. It has two optional variables `href` and `target` which can be used to specify the URL and target of the link.
+`button` outputs a styled button component which can be used to highlight a primary action. It has three optional parameters:
+
+<!-- prettier-ignore-start -->
+|Parameter|Description|
+|---|---|
+|`href`|The URL that the button should link to.|
+|`target`|The target of the link.|
+|`download`|Whether browser should download the resource rather than navigate to the URL. The value of this parameter will be the name of the downloaded file.|
+<!-- prettier-ignore-end -->
 
 **Example:**
 
@@ -84,7 +93,7 @@ data: {
   labels: ['Tomato', 'Blueberry', 'Banana', 'Lime', 'Orange'],
   datasets: [{
     label: '# of votes',
-    data: [12, 19, 3, 5, 2, 3],
+    data: [12, 19, 3, 5, 3],
   }]
 }
 {{</* /chart */>}}
@@ -225,3 +234,23 @@ B-->C[Profit]
 {{< /mermaid >}}
 
 You can see some additional Mermaid examples on the [diagrams and flowcharts samples]({{< ref "diagrams-flowcharts" >}}) page.
+
+## Profile
+
+The `profile` shortcode inserts a block displaying the site author's details. The same template is used on Congo's homepage layouts, but can also be inserted in any article content. It has one optional parameter:
+
+<!-- prettier-ignore-start -->
+|Parameter|Description|
+|---|---|
+|`align`|The alignment of the profile elements - valid options include `start`, `center` and `end`. If no value is provided, the `center` alignment will be used.|
+<!-- prettier-ignore-end -->
+
+The template is populated using the author parameters set in the [Language Configuration]({{< ref "configuration#configuration" >}}).
+
+**Example:**
+
+```md
+{{</* profile align="center" */>}}
+```
+
+{{< profile align="center" >}}

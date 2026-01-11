@@ -47,9 +47,16 @@ sharing:
   email: "Küldés emailben"
   facebook: "Megosztás a Facebookon"
   linkedin: "Megosztás a LinkedInen"
+  # mastodon: "Toot on Mastodon"
   pinterest: "Megosztás a Pinteresten"
   reddit: "Megosztás a Redditen"
   twitter: "Megosztás a Twitteren"
+  # threads: "Post on Threads"
+  telegram: "Megosztás a Telegramon"
+  line: "Megosztás a LINE-on"
+  weibo: "Megosztás a Weibo-on"
+  # x-twitter: "Post on X"
+  # xing: "Share on XING"
 
 shortcode:
   recent_articles: "Friss"

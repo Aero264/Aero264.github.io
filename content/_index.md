@@ -1,9 +1,8 @@
 ---
-title: "Home"
-date: 2022-04-14T13:04:50+01:00
+title: ""
+description: "Personal website of Dr. Aravind Kumar Kamaraj"
 draft: false
-Description: "Personal website of Dr. Aravind Kumar Kamaraj"
 ---
 
-Research Fellow in Computational Neuroscience  
-University of Birmingham, UK
+Research Fellow in Mathematical Modelling and Model-Data Fusion  
+University of Surrey, UK

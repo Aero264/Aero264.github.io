@@ -1,0 +1,35 @@
+# -- Site Configuration --
+
+baseURL = 'https://www.aravind-kumar.net'
+languageCode = 'en'
+title = 'Aravind Kumar Kamaraj'
+theme = 'congo'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Aravind Kumar Kamaraj"
+  headline = "Computational neuroscientist specialising in mechanistic modelling and EEG analyses"
+  image = "img/author.jpg"
+  links = [
+      { email = "mailto:aravindkumark@outlook.com" },
+      { linkedin = "https://www.linkedin.com/in/aravind-kumar-kamaraj/" },
+      { x-twitter = "https://x.com/AravindKumar264" },
+      { google-scholar = "https://https://scholar.google.com/citations?user=NQZm830AAAAJ&hl=en" },
+      { orcid = "https://orcid.org/0000-0001-7926-1120"},
+      { researchgate = "https://www.researchgate.net/profile/Aravind-Kumar-2"},
+      { github = "https://github.com/Aero264" },
+  ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+

@@ -47,9 +47,16 @@ sharing:
   email: "ইমেল করুন"
   facebook: "ফেসবুকে শেয়ার করুন"
   linkedin: "লিংকডইনে শেয়ার করুন"
+  # mastodon: "Toot on Mastodon"
   pinterest: "পিন্টারেস্টে পিন করুন"
   reddit: "রেড্ডিটে জমা দিন"
   twitter: "ট্যুইট করুন"
+  # threads: "Post on Threads"
+  telegram: "টেলিগ্রামে শেয়ার করুন"
+  line: "লাইনে শেয়ার করুন"
+  # weibo: "Share on Weibo"
+  # x-twitter: "Post on X"
+  # xing: "Share on XING"
 
 shortcode:
   recent_articles: "সাম্প্রতিক"

@@ -8,25 +8,43 @@
 colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
-showAppearanceSwitcher = true
+
+defaultThemeColor = "#FFFFFF"
 
 enableSearch = false
 enableCodeCopy = false
+enableImageLazyLoading = true
+enableImageWebp = true
 
-# mainSections = ["section1", "section2"]
-# robots = "index, follow"
+# robots = ""
+fingerprintAlgorithm = "sha256"
+
 keywords = ["Aravind", "Kamaraj", "Aravind Kumar", "Aravind Kumar Kamaraj", "Research Fellow", "SMQB", "Epilepsy"]
 Description = "Personal website of Dr. Aravind Kumar Kamaraj"
-showScrollToTop = true
+customCSS = ["css/custom.css"]
+
+[header]
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  # logo = "img/logo.jpg"
+  # logoDark = "img/dark-logo.jpg"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+  showFooterMenu = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
   showRecent = false
+  recentLimit = 5
 
 [article]
   showDate = true
-  showDateUpdated = false
-  showAuthor = true
+  showDateUpdated = true
+  showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
@@ -39,18 +57,18 @@ showScrollToTop = true
   showTableOfContents = false
   showTaxonomies = false
   showWordCount = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  showComments = false
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
 
 [list]
   showBreadcrumbs = false
   showSummary = false
   showTableOfContents = false
+  showTaxonomies = false
   groupByYear = true
+  paginationWidth = 1
 
 [sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
@@ -58,7 +76,15 @@ showScrollToTop = true
 
 [fathomAnalytics]
   # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+
+[plausibleAnalytics]
+  # domain = "blog.yoursite.com"
+  # event = ""
+  # script = ""
+
+#[umamiAnalytics]
+#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+#  region = "eu"  # can be either "eu" or "us"
 
 [verification]
   # google = ""

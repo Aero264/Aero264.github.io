@@ -1,0 +1,52 @@
+/* Neuroscience: default near-black */
+.tag-neuro,
+.tag-neuro * {
+  color: #6a3f4b !important; /* muted oxblood / aubergine */
+}
+
+/* Mechanics: blue-gray */
+.tag-mech,
+.tag-mech * {
+  color: #2f5d8a !important;
+}
+
+.tag-control,
+.tag-control * {
+  color: #3f5a4a !important; /* muted evergreen */
+}
+
+/* Dark mode equivalents */
+.dark .tag-neuro,
+.dark .tag-neuro * {
+  color: #e1b7c0 !important; /* softened rose */
+}
+
+.dark .tag-mech,
+.dark .tag-mech * {
+  color: #a9c3e6 !important;
+}
+
+.dark .tag-control,
+.dark .tag-control * {
+  color: #b8d4c6 !important; /* softened mint */
+}
+
+/* Hyperlinks */
+
+a {
+  text-decoration-color: currentColor !important;
+}
+
+/* Global hover: light mode */
+a:hover {
+  background-color: hsl(220 90% 56%) !important; /* blue */
+  color: white !important;
+  text-decoration-color: white !important;
+}
+
+/* Dark mode override */
+.dark a:hover {
+  background-color: hsl(220 90% 65%) !important; /* slightly lighter blue */
+  color: hsl(0 0% 100%) !important;
+  text-decoration-color: hsl(0 0% 100%) !important;
+}

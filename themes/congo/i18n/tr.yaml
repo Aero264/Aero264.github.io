@@ -46,9 +46,16 @@ sharing:
   email: "Email ile gönder"
   facebook: "Facebook'ta paylaş"
   linkedin: "LinkedIn'te paylaş"
+  # mastodon: "Toot on Mastodon"
   pinterest: "Pinterest'te pinle"
   reddit: "Reddit'te gönder"
   twitter: "Twitter'da Tweetle"
+  # threads: "Post on Threads"
+  telegram: "Telegram'da paylaş"
+  line: "LINE'da paylaş"
+  weibo: "Weibo'da paylaş"
+  # x-twitter: "Post on X"
+  # xing: "Share on XING"
 
 shortcode:
   recent_articles: "Güncel"
