@@ -14,7 +14,7 @@ Description: "Publications by Dr. Aravind Kumar Kamaraj"
 
 1. **Kamaraj, A. K.**, Szuromi, M. P.  
    {{< tag neuro >}} [Modelling dysfunction-specific interventions for seizure termination in epilepsy.](https://doi.org/10.1038/s41540-025-00632-9)  {{< /tag >}} <br>
-   *npj Systems Biology and Applications* (2025). In Press. 
+   *npj Systems Biology and Applications (Nature Portfolio)* (2025). In Press. 
 
 1. Quilter, E. E. V., Downes, S., Deighan, M. T., Stuart, L., Charles, R., Tittensor, P., Junges, L., Kissack, P., Qureshi, Y.,  **Kamaraj, A. K.**, Brigden, A. L. C.  
    {{< tag neuro >}} [A digital intervention for capturing the real-time health data needed for epilepsy seizure forecasting: formative codesign and the usability study protocol (the ATMOSPHERE study).](https://doi.org/10.2196/60129)   {{< /tag >}} <br>
@@ -22,7 +22,7 @@ Description: "Publications by Dr. Aravind Kumar Kamaraj"
 
 1. **Kumar, A.**, Ali, S. F., Arockiarajan, A.  
    {{< tag mech >}} [Influence of piezoelectric energy transfer on the inter-well oscillations of multi-stable vibration energy harvesters.](https://doi.org/10.1115/1.4042139)  {{< /tag >}} <br>
-   *Journal of Computational and Nonlinear Dynamics* (2019), 14(3), 031001.
+   *ASME Journal of Computational and Nonlinear Dynamics* (2019), 14(3), 031001.
 
 1. **Kumar, A.**, Ali, S. F., Arockiarajan, A.  
    {{< tag mech >}} [Exploring the benefits of an asymmetric monostable potential function in broadband vibration energy harvesting.](https://doi.org/10.1063/1.5037733)  {{< /tag >}} <br>
