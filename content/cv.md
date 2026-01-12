@@ -94,7 +94,7 @@ CGPA: 9.55 / 10
 
 A complete list of publications is available [here](/publications).  
 [Google Scholar Metrics](https://scholar.google.com/citations?user=NQZm830AAAAJ&hl=en) <br>
-Total no. of citations: 217  <br>
+Total no. of citations: 215  <br>
 h-index: 6 <br>
 i10-index: 6 <br>
 **Two first-authored publications have each accrued over 50 citations.**
