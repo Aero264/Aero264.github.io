@@ -5,7 +5,7 @@ draft: false
 showDate: false
 showAuthor: false
 showDateUpdated: true
-Description: "Curriculum Vitae of Dr. Aravind Kumar Kamaraj"
+Description: "Curriculum Vitae of Dr Aravind Kumar Kamaraj"
 ---
 
 ## Aravind Kumar Kamaraj  
