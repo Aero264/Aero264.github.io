@@ -106,7 +106,7 @@ Selected invited talks and events are listed [here](/talks).
 ## Academic Service and Impact
 
 - Co-creator and co-host of the annual workshop series **Perturbations in Epilepsy** (2022–2024).  
-- Co-organised a **SIAM Dynamical Systems mini-symposium** on phase transitions in electrophysiological systems.  
+- Co-organised a **SIAM Dynamical Systems mini-symposium** on phase transitions in electrophysiological systems (2023).  
 - Delivered the **Birmingham Popular Mathematics Lecture** (2024).
 - Serving on the **University of Surrey Ethics Committee** as Reviewer (2025 - present).
 
