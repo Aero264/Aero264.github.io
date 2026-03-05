@@ -9,13 +9,13 @@ Description: "Invited talks and events"
 
 ## Upcoming talks and events
 
-1. **Differentiating Healthy Ageing and Alzheimer’s Disease through Sleep EEG.** <br>
-    Alzheimer’s Research UK Conference, Manchester, UK. <br>
-    24 - 25 February 2026.
-
 1. **Modelling dysfunction-specific interventions for seizure termination in epilepsy.** <br>
    in the minisymposium *'Mathematics in Treatment of Brain Disorders'* at British Applied Mathematics Colloquium, Norwich, UK. <br>
    29 March - 01 April 2026.
+
+1. **Sleep EEG signatures of epileptiform activity in ageing and Alzheimer’s Disease.** <br>
+   at the Epilepsy Research Institute UK Navigator Symposium on *'Late onset epilespy'*, Liverpool, UK. <br>
+   30 April 2026.   
 
 ## Past events
 
@@ -40,6 +40,8 @@ Description: "Invited talks and events"
     Simons Initiative for Developing Brain. University of Edinburgh. 2024.
 
 ## Conference Presentations / Posters
+
+1. **Kamaraj, A. K.**, Bartsch, U., Jaramillo, V., della Monica, C., Skeldon, A.C., and Dijk, D-J., **Differentiating Healthy Ageing and Alzheimer’s Disease through Sleep EEG.** Alzheimer’s Research UK Conference, Manchester, UK, 2026.
 
 1.	**Kamaraj, A. K.**, Bartsch, U., Jaramillo, V., della Monica, C., Skeldon, A.C., and Dijk, D-J., **Differentiating Healthy Ageing and Alzheimer’s Disease through Sleep EEG.** Connectome, Manchester, UK, 2025.
 
