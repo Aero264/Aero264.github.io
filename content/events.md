@@ -31,13 +31,13 @@ Description: "Invited talks and events"
 
 ## Invited talks
 1. **Epilepsy in people living with Alzheimer’s disease.** <br>
-    UK Dementia Research Institute and Epilepsy Research Institute Joint Meeting, 2025.
+    UK Dementia Research Institute and Epilepsy Research Institute Joint Meeting, London, UK, 2025.
 
 1. **A compartmental framework to understand excitation-inhibition imbalance in epilepsy and its relation to neural mass models.**
-    University of Oxford, 2024.
+    University of Oxford, UK, 2024.
 
 1. **A compartmental framework to understand excitation-inhibition imbalance in epilepsy.** 
-    Simons Initiative for Developing Brain. University of Edinburgh. 2024.
+    Simons Initiative for Developing Brain, University of Edinburgh, UK, 2024.
 
 ## Conference Presentations / Posters
 
