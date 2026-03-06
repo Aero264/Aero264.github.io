@@ -1,51 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aravind Kumar Kamaraj</title><link>https://www.aravind-kumar.net/</link><description>Recent content on Aravind Kumar Kamaraj</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 15 Apr 2022 20:10:11 +0100</lastBuildDate><atom:link href="https://www.aravind-kumar.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://www.aravind-kumar.net/cv/</link><pubDate>Fri, 15 Apr 2022 20:10:11 +0100</pubDate><guid>https://www.aravind-kumar.net/cv/</guid><description>&lt;h2 id="aravind-kumar-kamaraj" class="relative group"&gt;Aravind Kumar Kamaraj &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#aravind-kumar-kamaraj" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Computational Neuroscience · Mathematical Modelling&lt;br&gt;
-Email: &lt;a href="mailto:aravindkumark@outlook.com"&gt;aravindkumark@outlook.com&lt;/a&gt;&lt;br&gt;
-Website: &lt;a href="https://www.aravind-kumar.net" target="_blank" rel="noreferrer"&gt;https://www.aravind-kumar.net&lt;/a&gt;&lt;br&gt;
-ORCID: 0000-0001-7926-1120&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Colour indicates disciplinary domain where relevant: &lt;span class="tag-neuro"&gt;&lt;strong&gt;Neuroscience&lt;/strong&gt;&lt;/span&gt;
-, &lt;span class="tag-control"&gt;&lt;strong&gt;Control Systems&lt;/strong&gt;&lt;/span&gt;
-, and &lt;span class="tag-mech"&gt;&lt;strong&gt;Mechanics&lt;/strong&gt;&lt;/span&gt;
-.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="research-focus" class="relative group"&gt;Research Focus &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#research-focus" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Mechanistic models of seizure onset and termination in epilepsy&lt;/li&gt;
-&lt;li&gt;EEG biomarkers in epilepsy and Alzheimer’s disease&lt;/li&gt;
-&lt;li&gt;Sleep and circadian modulation of brain dynamics&lt;/li&gt;
-&lt;li&gt;Model–data fusion and interpretable computational frameworks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="academic-appointments" class="relative group"&gt;Academic Appointments &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#academic-appointments" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span class="tag-neuro"&gt;&lt;strong&gt;Research Fellow in Mathematical Modelling and Model–Data Fusion&lt;/strong&gt;&lt;/span&gt;
- &lt;br&gt;
-&lt;em&gt;University of Surrey&lt;/em&gt; · May 2024 – present&lt;/p&gt;</description></item><item><title>Publications</title><link>https://www.aravind-kumar.net/publications/</link><pubDate>Thu, 14 Apr 2022 12:05:47 +0100</pubDate><guid>https://www.aravind-kumar.net/publications/</guid><description>&lt;p&gt;&lt;em&gt;Colour indicates disciplinary domain where relevant: &lt;span class="tag-neuro"&gt;&lt;strong&gt;Neuroscience&lt;/strong&gt;&lt;/span&gt;
-, &lt;span class="tag-control"&gt;&lt;strong&gt;Control Systems&lt;/strong&gt;&lt;/span&gt;
-, and &lt;span class="tag-mech"&gt;&lt;strong&gt;Mechanics&lt;/strong&gt;&lt;/span&gt;
-.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="journal-articles" class="relative group"&gt;Journal Articles &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#journal-articles" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Kamaraj, A. K.&lt;/strong&gt;, Szuromi, M. P.&lt;br&gt;
-&lt;span class="tag-neuro"&gt;&lt;a href="https://doi.org/10.1038/s41540-025-00632-9" target="_blank" rel="noreferrer"&gt;Modelling dysfunction-specific interventions for seizure termination in epilepsy.&lt;/a&gt;&lt;/span&gt;
- &lt;br&gt;
-&lt;em&gt;npj Systems Biology and Applications (Nature Portfolio)&lt;/em&gt; (2026), 12(9).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Quilter, E. E. V., Downes, S., Deighan, M. T., Stuart, L., Charles, R., Tittensor, P., Junges, L., Kissack, P., Qureshi, Y., &lt;strong&gt;Kamaraj, A. K.&lt;/strong&gt;, Brigden, A. L. C.&lt;br&gt;
-&lt;span class="tag-neuro"&gt;&lt;a href="https://doi.org/10.2196/60129" target="_blank" rel="noreferrer"&gt;A digital intervention for capturing the real-time health data needed for epilepsy seizure forecasting: formative codesign and the usability study protocol (the ATMOSPHERE study).&lt;/a&gt;&lt;/span&gt;
- &lt;br&gt;
-&lt;em&gt;JMIR Research Protocols&lt;/em&gt; (2024), 13(1), e60129.&lt;/p&gt;</description></item><item><title>Invited talks and events</title><link>https://www.aravind-kumar.net/events/</link><pubDate>Thu, 14 Apr 2022 12:05:34 +0100</pubDate><guid>https://www.aravind-kumar.net/events/</guid><description>&lt;h2 id="upcoming-talks-and-events" class="relative group"&gt;Upcoming talks and events &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#upcoming-talks-and-events" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Differentiating Healthy Ageing and Alzheimer’s Disease through Sleep EEG.&lt;/strong&gt; &lt;br&gt;
-Alzheimer’s Research UK Conference, Manchester, UK. &lt;br&gt;
-24 - 25 February 2026.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Modelling dysfunction-specific interventions for seizure termination in epilepsy.&lt;/strong&gt; &lt;br&gt;
-in the minisymposium &lt;em&gt;&amp;lsquo;Mathematics in Treatment of Brain Disorders&amp;rsquo;&lt;/em&gt; at British Applied Mathematics Colloquium, Norwich, UK. &lt;br&gt;
-29 March - 01 April 2026.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id="past-events" class="relative group"&gt;Past events &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#past-events" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Perturbations in Epilepsy&lt;/strong&gt; &lt;br&gt;
-Co-creator and co-host of the annual workshop series&lt;br&gt;
-University of Birmingham, UK &lt;br&gt;
-2022 - 2024&lt;/p&gt;</description></item><item><title>About Me</title><link>https://www.aravind-kumar.net/aboutme/</link><pubDate>Thu, 14 Apr 2022 12:05:07 +0100</pubDate><guid>https://www.aravind-kumar.net/aboutme/</guid><description>&lt;p&gt;I am &lt;strong&gt;Aravind&lt;/strong&gt;, trained as an &lt;strong&gt;engineer and applied mathematician&lt;/strong&gt;, and now working as a &lt;strong&gt;neuroscientist&lt;/strong&gt;. At the core of my work is a long-standing curiosity about how systems evolve over time and why they behave the way they do. This naturally led me to dynamical systems theory, which forms the backbone of my research. Real-world systems are rarely linear, predictable, or noise-free &amp;mdash; and that is precisely what makes them interesting. My work therefore focuses on &lt;strong&gt;nonlinear and stochastic dynamical systems&lt;/strong&gt;, both as mathematical objects and as tools for understanding complex biological phenomena.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aravind Kumar Kamaraj</title><link>https://www.aravind-kumar.net/</link><description>Recent content on Aravind Kumar Kamaraj</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 15 Apr 2022 20:10:11 +0100</lastBuildDate><atom:link href="https://www.aravind-kumar.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://www.aravind-kumar.net/cv/</link><pubDate>Fri, 15 Apr 2022 20:10:11 +0100</pubDate><guid>https://www.aravind-kumar.net/cv/</guid><description>&lt;h2 id="aravind-kumar-kamaraj" class="relative group">Aravind Kumar Kamaraj &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#aravind-kumar-kamaraj" aria-label="Anchor">#&lt;/a>&lt;/span>&lt;/h2>&lt;p>Computational Neuroscience · Mathematical Modelling&lt;br>
+Email: &lt;a href="mailto:aravindkumark@outlook.com">aravindkumark@outlook.com&lt;/a>&lt;br>
+Website: &lt;a href="https://www.aravind-kumar.net" target="_blank" rel="noreferrer">https://www.aravind-kumar.net&lt;/a>&lt;br>
+ORCID: 0000-0001-7926-1120&lt;/p>
+&lt;p>&lt;em>Colour indicates disciplinary domain where relevant: &lt;span class="tag-neuro">&lt;strong>Neuroscience&lt;/strong>&lt;/span>
+, &lt;span class="tag-control">&lt;strong>Control Systems&lt;/strong>&lt;/span>
+, and &lt;span class="tag-mech">&lt;strong>Mechanics&lt;/strong>&lt;/span>
+.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h2 id="research-focus" class="relative group">Research Focus &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#research-focus" aria-label="Anchor">#&lt;/a>&lt;/span>&lt;/h2>&lt;ul>
+&lt;li>Mechanistic models of seizure onset and termination in epilepsy&lt;/li>
+&lt;li>EEG biomarkers in epilepsy and Alzheimer’s disease&lt;/li>
+&lt;li>Sleep and circadian modulation of brain dynamics&lt;/li>
+&lt;li>Model–data fusion and interpretable computational frameworks&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="academic-appointments" class="relative group">Academic Appointments &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#academic-appointments" aria-label="Anchor">#&lt;/a>&lt;/span>&lt;/h2>&lt;p>&lt;span class="tag-neuro">&lt;strong>Research Fellow in Mathematical Modelling and Model–Data Fusion&lt;/strong>&lt;/span>
+ &lt;br>
+&lt;em>University of Surrey&lt;/em> · May 2024 – present&lt;/p></description></item><item><title>Publications</title><link>https://www.aravind-kumar.net/publications/</link><pubDate>Thu, 14 Apr 2022 12:05:47 +0100</pubDate><guid>https://www.aravind-kumar.net/publications/</guid><description>&lt;p>&lt;em>Colour indicates disciplinary domain where relevant: &lt;span class="tag-neuro">&lt;strong>Neuroscience&lt;/strong>&lt;/span>
+, &lt;span class="tag-control">&lt;strong>Control Systems&lt;/strong>&lt;/span>
+, and &lt;span class="tag-mech">&lt;strong>Mechanics&lt;/strong>&lt;/span>
+.&lt;/em>&lt;/p>
+&lt;h2 id="journal-articles" class="relative group">Journal Articles &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#journal-articles" aria-label="Anchor">#&lt;/a>&lt;/span>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Kamaraj, A. K.&lt;/strong>, Szuromi, M. P.&lt;br>
+&lt;span class="tag-neuro">&lt;a href="https://doi.org/10.1038/s41540-025-00632-9" target="_blank" rel="noreferrer">Modelling dysfunction-specific interventions for seizure termination in epilepsy.&lt;/a>&lt;/span>
+ &lt;br>
+&lt;em>npj Systems Biology and Applications (Nature Portfolio)&lt;/em> (2026), 12(9).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Quilter, E. E. V., Downes, S., Deighan, M. T., Stuart, L., Charles, R., Tittensor, P., Junges, L., Kissack, P., Qureshi, Y., &lt;strong>Kamaraj, A. K.&lt;/strong>, Brigden, A. L. C.&lt;br>
+&lt;span class="tag-neuro">&lt;a href="https://doi.org/10.2196/60129" target="_blank" rel="noreferrer">A digital intervention for capturing the real-time health data needed for epilepsy seizure forecasting: formative codesign and the usability study protocol (the ATMOSPHERE study).&lt;/a>&lt;/span>
+ &lt;br>
+&lt;em>JMIR Research Protocols&lt;/em> (2024), 13(1), e60129.&lt;/p></description></item><item><title>Invited talks and events</title><link>https://www.aravind-kumar.net/events/</link><pubDate>Thu, 14 Apr 2022 12:05:34 +0100</pubDate><guid>https://www.aravind-kumar.net/events/</guid><description>&lt;h2 id="upcoming-talks-and-events" class="relative group">Upcoming talks and events &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#upcoming-talks-and-events" aria-label="Anchor">#&lt;/a>&lt;/span>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Modelling dysfunction-specific interventions for seizure termination in epilepsy.&lt;/strong> &lt;br>
+in the minisymposium &lt;em>&amp;lsquo;Mathematics in Treatment of Brain Disorders&amp;rsquo;&lt;/em> at British Applied Mathematics Colloquium, Norwich, UK. &lt;br>
+29 March - 01 April 2026.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Sleep EEG signatures of epileptiform activity in ageing and Alzheimer’s Disease.&lt;/strong> &lt;br>
+at the Epilepsy Research Institute UK Navigator Symposium on &lt;em>&amp;lsquo;Late onset epilespy&amp;rsquo;&lt;/em>, Liverpool, UK. &lt;br>
+30 April 2026.&lt;/p></description></item><item><title>About Me</title><link>https://www.aravind-kumar.net/aboutme/</link><pubDate>Thu, 14 Apr 2022 12:05:07 +0100</pubDate><guid>https://www.aravind-kumar.net/aboutme/</guid><description>&lt;p>I am &lt;strong>Aravind&lt;/strong>, trained as an &lt;strong>engineer and applied mathematician&lt;/strong>, and now working as a &lt;strong>neuroscientist&lt;/strong>. At the core of my work is a long-standing curiosity about how systems evolve over time and why they behave the way they do. This naturally led me to dynamical systems theory, which forms the backbone of my research. Real-world systems are rarely linear, predictable, or noise-free &amp;mdash; and that is precisely what makes them interesting. My work therefore focuses on &lt;strong>nonlinear and stochastic dynamical systems&lt;/strong>, both as mathematical objects and as tools for understanding complex biological phenomena.&lt;/p></description></item></channel></rss>
