@@ -8,10 +8,8 @@ Description: "Invited talks and events"
 ---
 
 ## Upcoming talks and events
-
-1. **Sleep EEG signatures of epileptiform activity in ageing and Alzheimer’s Disease.** <br>
-   at the Epilepsy Research Institute UK Navigator Symposium on *'Late onset epilespy'*, Liverpool, UK. <br>
-   30 April 2026.   
+1. **One-way flight from London Heathrow to Chennai**, British Airways, BA 36, 06 July 2026. 
+Disclaimer: Flight status may change depending on ongoing circumstances. 
 
 ## Past events
 
@@ -31,6 +29,9 @@ Description: "Invited talks and events"
     May 2023
 
 ## Invited talks
+1. **Sleep EEG signatures of epileptiform activity in ageing and Alzheimer’s Disease.** <br>
+   Epilepsy Research Institute UK Navigator Symposium on *'Late onset epilespy'*, Liverpool, UK, 2026.
+
 1. **Epilepsy in people living with Alzheimer’s disease.** <br>
     UK Dementia Research Institute and Epilepsy Research Institute Joint Meeting, London, UK, 2025.
 
