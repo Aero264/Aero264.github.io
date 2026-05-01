@@ -8,7 +8,7 @@ Description: "Invited talks and events"
 ---
 
 ## Upcoming talks and events
-1. **One-way flight from London Heathrow to Chennai**, British Airways, BA 36, 06 July 2026. 
+1. **One-way flight from London Heathrow to Chennai**, *British Airways* Flight 36, 06 July 2026. <br>
 Disclaimer: Flight status may change depending on ongoing circumstances. 
 
 ## Past events
