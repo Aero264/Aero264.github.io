@@ -9,7 +9,7 @@ Description: "Invited talks and events"
 
 ## Upcoming events
 1. **One-way flight from London Heathrow to Chennai** <br>
-    *British Airways* Flight 36 <br>
+    *British Airways* Flight 35 <br>
     06 July 2026. <br>
     Disclaimer: Flight status may change depending on ongoing circumstances. 
 
